@@ -23,22 +23,63 @@ export const sliderItems = [
   ];
 
 
-  export const categories = [
-    {
-      id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpg",
-      title: "SHIRT STYLE!",
+  export const categories = [ 
+    { 
+      id: 1, 
+      img: "https://images.pexels.com/photos/58836041/pexels-photo-51886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+      title: "SHIRT STYLE!", 
     },
+     
+    { 
+       id: 2, 
+       img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+       title: "LOUNGEWEAR LOVE", 
+    }, 
+     { 
+       id: 3, 
+       img: "https://images.pexels.com/photos/54280696/pexels-photo-54806696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", 
+       title: "LIGHT JACKETS", 
+    }, 
+    ];
 
-    {
-      id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpg",
-      title: "LOUNGEWEAR LOVE!",
-    },
+  export const popularProducts = [
+          {
+            id:1,
+            img:"",
+          },
 
-    {
-      id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpg",
-      title: "LIGHT JACKETS!",
-    },
+          {
+            id:2,
+            img:"",
+          },
+
+          {
+            id:3,
+            img:"",
+          },
+
+          {
+            id:4,
+            img:"",
+          },
+
+          {
+            id:5,
+            img:"",
+          },
+
+          {
+            id:6,
+            img:"",
+          },
+
+          {
+            id:6,
+            img:"",
+          },
+
+          {
+            id:6,
+            img:"",
+          },
   ];

@@ -17,5 +17,5 @@ export default function Announcement() {
     <Container>
       Supper Deal! Free Shipping on Orders Over $50
     </Container>
-  )
+  );
 }

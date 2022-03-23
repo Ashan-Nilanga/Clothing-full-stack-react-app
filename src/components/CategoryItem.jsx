@@ -26,7 +26,7 @@ const Info = styled.div`
 `;
 
 const Title = styled.h1`
-   color: blue;
+   color: white;
    margin-bottom: 20px;
 `;
 
