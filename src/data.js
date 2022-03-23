@@ -33,12 +33,12 @@ export const sliderItems = [
     {
       id: 2,
       img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpg",
-      title: "LOUNGEWEAR LOVE",
+      title: "LOUNGEWEAR LOVE!",
     },
 
     {
       id: 3,
       img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpg",
-      title: "LIGHT JACKETS",
+      title: "LIGHT JACKETS!",
     },
   ];
