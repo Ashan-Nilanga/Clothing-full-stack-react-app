@@ -1,5 +1,6 @@
 import { Facebook, Instagram, Twitter, Pinterest, MailOutline, Room, Phone } from "@material-ui/icons";
-import styled from "styled-components"
+import styled from "styled-components";
+import { mobile } from "../responsive";
 
 const Container = styled.div`
    display: flex;
@@ -42,6 +43,7 @@ const SocialIcon = styled.div`
 const Center = styled.div`
    flex: 1;
    padding: 20px;
+   ${mobile({display: "none" })}
 
 `;
 
