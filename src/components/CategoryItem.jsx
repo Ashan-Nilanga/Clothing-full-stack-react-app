@@ -12,7 +12,7 @@ const Image = styled.img`
    width: 100%;
    height: 100%;
    object-fit: cover;
-   ${mobile({height: "30vh" })}
+   ${mobile({height: "20vh" })}
 `;
 
 const Info = styled.div`
@@ -37,7 +37,7 @@ const Button = styled.button`
    padding: 10px;
    background-color: white;
    color: gray;
-   cursor pointer;
+   cursor: pointer;
    font-weight: 600;
 `;
 
@@ -50,7 +50,7 @@ const CategoryItem = ({item}) => {
             <Button>SHOP NOW</Button>
         </Info>
     </Container>
-  )
-}
+  );
+};
 
-export default CategoryItem
+export default CategoryItem;

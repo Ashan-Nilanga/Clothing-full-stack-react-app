@@ -25,17 +25,17 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/5886041/pexels-photo-58860461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    img: "https://images.unsplash.com/photo-1599032909756-5deb82fea3b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMGdpcmxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     title: "SHIRT STYLE!",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/2983464/pexels-photo-29836464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    img: "https://images.unsplash.com/photo-1600710411903-2a03770f2d7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGZhc2hpb24lMjBnaXJsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     title: "LOUNGEWEAR LOVE",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/5480696/pexels-photo-54860696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    img: "https://images.unsplash.com/photo-1481824429379-07aa5e5b0739?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZhc2hpb24lMjBnaXJsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     title: "LIGHT JACKETS",
   },
 ];
@@ -43,7 +43,7 @@ export const categories = [
 export const popularProducts = [
   {
     id:1,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guittar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img:"",
   },
   {
     id:2,
